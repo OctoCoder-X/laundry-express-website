@@ -1,0 +1,11 @@
+  =>  Template Name    : LaundryExpress - Laundry Service Website Template
+
+  =>  Template Link    : https://htmlcodex.com/laundry-service-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Code Demon
+
+  =>  Author Website   : http://127.0.0.1:5502/code%20demon.html
+
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( http://127.0.0.1:5502/code%20demon.about )
